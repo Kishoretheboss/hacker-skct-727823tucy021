@@ -1,0 +1,4 @@
+Enter GitHub username: DEBUG: Status Code = 200
+Username: torvalds
+Followers: 293562
+Public Repos: 11
